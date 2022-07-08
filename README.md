@@ -1,4 +1,4 @@
-[![Jiwon Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=royaljs&theme=default)](https://github.com/royaljs/github-readme-stats)
+[![Jiwon Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=royaljs&theme=default&count_private=true)](https://github.com/royaljs/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royaljs&layout=compact)](https://github.com/royaljs/github-readme-stats)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
